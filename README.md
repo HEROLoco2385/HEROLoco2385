@@ -5,3 +5,6 @@
 My name is Diogo Juliano Teixeira da Silva -I'm studying at Alura I use this profile for work, projects and development of the organization
 
 Hi guys😎👋, my name is Diogo, I'm new to Github and Java programming. This profile is for working with the school, ok😜. I'm Brazilian too.🇧🇷
+
+
+![](https://media.tenor.com/a_JvvZ_a5dAAAAAi/sonic-fox.gif)
